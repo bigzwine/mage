@@ -67,6 +67,7 @@ public enum CounterType {
     M1M1(new BoostCounter(-1, -1).name),
     MINING("mining"),
     P1P1(new BoostCounter(1, 1).name),
+    P2P2(new BoostCounter(2, 2).name),
     PAGE("page"),
     PAIN("pain"),
     PETRIFICATION("petrification"),
